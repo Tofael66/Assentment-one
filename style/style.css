@@ -310,20 +310,56 @@ background-color:  rgba(255, 76, 30, 0.05);
 
 
 
+ /* four part end */
 
 
+.main-contag{
+
+    width: 1064px;
+    height: 300px;
+    border: 2px solid red;
+    margin: 0 auto;
+    border-radius: 20px;
+    text-align: center;
+    background-image: url(../assets/handshake.jpg);
+    background-position:0%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: 
+rgb(13, 19, 33);
+}
 
 
+.text-nora{
 
+    text-align: center;
+    font-size: 32px;
+    margin-top: 30px;
 
+}
 
+.p-tag{
+    text-align: center;
+    font-size: 16px;
+    padding: 20px 60px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 
-
-
-
-
-
-
+.intut-text{
+    text-align:center ;
+   font-size: 40px;
+   border-radius: 5px;
+  
+   justify-content: center;
  
+}
 
- /* four part end*/
+.submit{
+
+    text-align:center ;
+    font-size: 40px;
+ border-radius: 6px;
+    justify-content: center;
+
+}
