@@ -158,7 +158,11 @@ padding: 16px;
     font-size: 20px;
     background-color: white;
     margin-top: 25px;
+   text-decoration: none;
+
 }
+
+
 
 
 .second-imgae-container{
@@ -271,7 +275,14 @@ font-size: 24px;
 }
 
 
+.done{
 
+    padding: 10px 60px;
+}
+
+.did{
+    padding: 5px 50px;
+}
 
 
 
@@ -326,6 +337,8 @@ background-color:  rgba(255, 76, 30, 0.05);
  /* four part end */
 
 
+
+
 .main-contag{
 
     width: 1064px;
@@ -360,16 +373,17 @@ rgb(13, 19, 33);
 color: white;
     text-align: center;
     font-size: 32px;
-    margin-top: 30px;
+    margin-top:40px;
+    padding-top: 40px;
 
 }
 
 .p-tag{
     text-align: center;
     font-size: 16px;
-    padding: 20px 60px;
+   padding: 5px 30px;
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom:30px;
     color: rgb(204, 195, 195);
 }
 
